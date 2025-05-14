@@ -6,7 +6,7 @@ NovaStrike (Like a supernova - overwhelming power)
 ```markdown
 # HyperStrike - Advanced Cyber Warfare Platform
 
-/home/phonemyint-kyaw/Videos/Screencasts/NovaStrike.mp4
+
 
 
 ## 🔥 Features
